@@ -33,4 +33,22 @@ export const projects = [
 
     live: "https://trading-bot-frontend-dashboard.vercel.app/",
   },
+
+    {
+    title: "Student Performance Predictor",
+    image: "/clusterscope.png",
+    description:
+      "AI-powered tool that predicts student performance based on historical data and provides personalized learning recommendations.",
+
+    tech: [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "FastAPI",
+      "streamlit"
+    ],
+
+    live: "https://clusterscope-jmbxvaudyfhj2hntou4vfj.streamlit.app/",
+  },
 ];
