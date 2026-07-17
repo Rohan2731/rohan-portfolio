@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import About from "./components/About";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
-
+import CodingJourney from "./components/CodingJourney";
 function App() {
   return (
     <div className="bg-slate-950">
@@ -12,6 +12,7 @@ function App() {
       <About />
       <Skills />
       <Projects />
+      <CodingJourney />
     </div>
   );
 }

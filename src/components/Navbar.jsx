@@ -29,6 +29,11 @@ function Navbar() {
               Projects
             </a>
           </li>
+          <li>
+            <a href="#coding" className="hover:text-cyan-400 transition">
+              Coding Journey
+            </a>
+          </li>
 
           <li>
             <a href="#contact" className="hover:text-cyan-400 transition">
