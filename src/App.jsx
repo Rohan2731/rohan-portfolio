@@ -1,7 +1,9 @@
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
-    <div>
-      <h1>Portfolio Coming Soon</h1>
+    <div className="min-h-screen bg-slate-950">
+      <Navbar />
     </div>
   );
 }
