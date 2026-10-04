@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rohan-portfolio-orpin.vercel.app/sitemap.xml
